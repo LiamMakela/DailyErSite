@@ -7,5 +7,5 @@ export type Issue = {
 };
 
 export const issues: Issue[] = [
-  { id: "1", title: "title", date: "date",},
+  { id: "1", title: "title", date: "date", coverImage: "Issue_1.png"},
 ];
